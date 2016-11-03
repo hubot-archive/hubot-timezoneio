@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-timezoneio",
+  "name": "hubot-timezoneio",
   "description": "Hubot interface for timezone.io",
   "version": "0.0.1",
   "author": "@benwtr",
@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts, time, tz, timezone.io, timezoneio",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-timezoneio.git"
+    "url": "git://github.com/hubot-scripts/hubot-timezoneio.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-timezoneio/issues"
+    "url": "https://github.com/hubot-scripts/hubot-timezoneio/issues"
   },
   "dependencies": {
     "moment-timezone": "^0.5.7"

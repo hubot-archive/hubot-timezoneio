@@ -1,4 +1,4 @@
-# hubot-hubot-timezoneio
+# hubot-timezoneio
 
 Hubot interface for timezone.io
 
@@ -8,13 +8,13 @@ See [`src/hubot-timezoneio.coffee`](src/hubot-timezoneio.coffee) for full docume
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-timezoneio --save`
+`npm install hubot-timezoneio --save`
 
-Then add **hubot-hubot-timezoneio** to your `external-scripts.json`:
+Then add **hubot-timezoneio** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-hubot-timezoneio"
+  "hubot-timezoneio"
 ]
 ```
 
